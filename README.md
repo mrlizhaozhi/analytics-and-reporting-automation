@@ -1,2 +1,3 @@
-# analytics-and-reporting-automation
-用 Python 制作的自动化工具，涵盖数据抓取、处理、分析和报表等实用功能。
+# Python 数据分析与报告自动化工具
+
+这个用 Python 自动化工具可以抓取和分析 .xlsx 文件里面的数据然后自动生成 .pptx 演示文稿。
